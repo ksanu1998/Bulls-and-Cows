@@ -1,4 +1,5 @@
 # Bulls-and-Cows
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Bulls_and_Cows.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Bulls_and_Cows)<br>
 <b> This program implements the 4-digit code-breaker game which goes by the name Bulls and Cows. </b>
 
 <b> Guidelines </b>
